@@ -1,10 +1,8 @@
-# Learn Java 12 Programming
+# Learn Java 18 Programming
 
-<a href="https://www.packtpub.com/application-development/learn-java-12-programming?utm_source=github&utm_medium=repository&utm_campaign="><img src="https://prod.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/b/1/b12965_mockupcover.png" height="256px" align="right"></a>
+Published by Packt.
 
-This is the code repository for [](https://www.packtpub.com/application-development/learn-java-12-programming?utm_source=github&utm_medium=repository&utm_campaign=), published by Packt.
-
-**A step-by-step guide to learning essential concepts in Java SE 10, 11, and 12**
+**A step-by-step guide to learning essential concepts in Java SE 10 – 18**
 
 ## What is this book about?
 Java and its new features add to the richness of the language. It is the preferred language for many of today’s leading-edge technologies, everything from smartphones and game consoles to robots, massive enterprise systems, and supercomputers. Java 12 programming is your one-stop guide to learning the language and all its latest features.
