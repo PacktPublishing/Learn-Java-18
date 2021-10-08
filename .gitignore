@@ -1,4 +1,6 @@
 # Build and IDE artifacts
+*.iml
+.idea
 /bin
 /target
 .classpath
